@@ -175,10 +175,26 @@ jobs:
           CONFIG_PACKAGE_luci-app-webadmin=y
           CONFIG_PACKAGE_luci-app-wireguard=y
           CONFIG_PACKAGE_luci-app-wrtbwmon=y
-          
           CONFIG_PACKAGE_luci-app-filetransfer=y
-          luci-app-p910nd=y
-          OpenClash=y
+          CONFIG_PACKAGE_luci-app-luci-app-mwan3=y
+          CONFIG_PACKAGE_luci-app-luci-app-meshwizard=y
+          CONFIG_PACKAGE_luci-app-luci-app-netdata=y
+          CONFIG_PACKAGE_luci-app-luci-app-ramfree=y
+          CONFIG_PACKAGE_luci-app-luci-app-unblockmusic 
+          CONFIG_PACKAGE_luci-app-luci-app-vlmcsd
+          CONFIG_PACKAGE_luci-app- luci-app-watchcat
+          CONFIG_PACKAGE_luci-app-luci-app-wrtbwmon
+          CONFIG_PACKAGE_luci-app-luci-app-xlnetacc 
+          CONFIG_PACKAGE_luci-app-luci-app-syncdia
+          CONFIG_PACKAGE_luci-app-luci-app-transmission
+          CONFIG_PACKAGE_luci-app-luci-app-accesscontrol 
+          CONFIG_PACKAGE_luci-app-luci-app-arpbind
+          CONFIG_PACKAGE_luci-app-luci-app-nlbwmon
+          CONFIG_PACKAGE_luci-app-luci-app-samba 
+          CONFIG_PACKAGE_luci-app-luci-app-firewall  
+          CONFIG_PACKAGE_luci-app-p910nd=y
+          CONFIG_PACKAGE_OpenClash=y
+          
           EOF
 
           # LuCI主题:
