@@ -13,8 +13,9 @@ on:
   push:
     branches: 
       - master
-  # schedule:
-  #   - cron: 0 20 * * *
+  schedule:
+     - cron: 0 20 * * *
+  
   release:
     types: [published]
 
@@ -22,7 +23,7 @@ jobs:
 
   build_openwrt:
 
-    name: Build OpenWrt firmware
+    name: N-E-R-V(GODO)
 
     runs-on: ubuntu-latest
 
